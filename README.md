@@ -42,4 +42,3 @@ Tem um livro sombrio que gostaria de adicionar à biblioteca? Sinta-se à vontad
 ---
 
 Feito com 🖤 e um toque de mistério!
-```
